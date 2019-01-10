@@ -57,5 +57,5 @@ import PickerCascader  from 'react-native-picker-cascader';
         
 ```
 
-[](https://github.com/asifsha/react-native-picker-cascader/blob/master/demo/picker%20cascader.gif]
+![demo](https://github.com/asifsha/react-native-picker-cascader/blob/master/demo/pickercascader.gif)
 
