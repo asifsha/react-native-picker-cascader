@@ -1,4 +1,5 @@
 # react-native-picker-cascader
+ inspired by Ant design cascader, https://ant.design/components/cascader/
 
 ## Installation
 ```
