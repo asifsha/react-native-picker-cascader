@@ -1,0 +1,38 @@
+{
+  "name": "react-native-picker-cascader",
+  "version": "0.1.1",
+  "description": "select picker dropdown cascader for react native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "select",
+    "picker",
+    "dropdown",
+    "cascader",
+    "react",
+    "native",
+    "android",
+    "ios"
+  ],
+  "author": "asif sharif <asif-sharif@hotmail.com> (http://asifsha.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-popup-dialog": "^0.16.6"
+  },
+  "peerDependency": {
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asifsha/react-native-picker-cascader.git"
+  },
+  "homepage": "https://github.com/asifsha/react-native-picker-cascader/blob/master/README.md"
+}
