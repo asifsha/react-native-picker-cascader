@@ -1,11 +1,11 @@
-# react-native-picker-cascader
+# react native picker cascader
 
 ## Installation
 ```
 npm install --save react-native-picker-cascader
 ```
 
-## Example
+## How to Use
 
 ```
 import PickerCascader  from 'react-native-picker-cascader';
@@ -59,5 +59,15 @@ import PickerCascader  from 'react-native-picker-cascader';
 
 ![demo](https://raw.githubusercontent.com/asifsha/react-native-picker-cascader/master/demo/pickercascader.gif)
 
+
 ## npm
 https://www.npmjs.com/package/react-native-picker-cascader
+
+## Libraries Used
+https://github.com/jacklam718/react-native-popup-dialog @jacklam718
+
+## Developed By
+Asif Sharif
+
+## License
+MIT
