@@ -1,8 +1,8 @@
-# react native picker cascader
+# react native picker cascader / multilevel dropdown
 
 ## Installation
 ```
-npm install --save react-native-picker-cascader
+npm install --save react-native-picker-cascader / multilevel-dropdown
 ```
 
 ## How to Use
