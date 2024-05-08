@@ -1,6 +1,6 @@
 {
   "name": "react-native-picker-cascader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "select picker dropdown cascader for react native",
   "main": "src/index.js",
   "scripts": {
